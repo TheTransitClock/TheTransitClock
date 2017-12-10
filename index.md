@@ -1,8 +1,19 @@
 ## Introduction
-This is the home of The Transit Clock. The Transit Clock is the open source version of the project formally know as Transitime.
+This is the home of The Transit Clock. 
+
+The Transit Clock is an open source transit information system. It's core function is to provide and analyze arrival predictions for transit systems.
+
+It takes a GTFS-realtime vehicle feed as input and product a GTFS-realtime trip updates feed.
+
+The Transit Clock is an extended open source version of the project formally know as Transitime.
+
+For further information please see project on GitHub. If you have any queries please use the mailing list.
+
 ## GitHub
 [The Transit Clock](https://github.com/TheTransitClock)
+
 ## Wiki
-[Work in progress](https://github.com/TheTransitClock/transitime/wiki)
+[Current work] (https://github.com/TheTransitClock/transitime/wiki)
+
 ## Mailing list
 [Mailing list](https://groups.google.com/forum/?hl=en#!forum/thetransitclock)
