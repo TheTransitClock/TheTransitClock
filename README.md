@@ -1,3 +1,1 @@
-# The Transit Clock
-
-Prediction Generator
+This is the source for The Transit Clock website.
