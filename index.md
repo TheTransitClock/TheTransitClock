@@ -4,7 +4,7 @@ It takes a [GTFS-realtime vehicle positions](https://developers.google.com/trans
 
 TheTransitClock is an extended open source version of the project formally know as Transitime.
 
-For further information please see the project [wiki](https://github.com/TheTransitClock/transitime/wiki) on GitHub. If you have any queries please use the mailing list.
+For further information please seee the project [wiki](https://github.com/TheTransitClock/transitime/wiki) on GitHub. If you have any queries please use the mailing list.
 
 ## GitHub
 [TheTransitClock](https://github.com/TheTransitClock)
