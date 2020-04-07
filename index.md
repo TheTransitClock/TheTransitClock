@@ -1,4 +1,4 @@
-TheTransitClock is an open source transit information system. It's core function is to provide and analyze arrival predictions for transit systems. It takes a [GTFS-realtime vehicle positions](https://developers.google.com/transit/gtfs-realtime/guides/vehicle-positions) feed as input and produces arrival predictions in a [GTFS-realtime trip updates](https://developers.google.com/transit/gtfs-realtime/guides/trip-updates) feed. 
+TheTransitClock its an open source transit information system. It's core function is to provide and analyze arrival predictions for transit systems. It takes a [GTFS-realtime vehicle positions](https://developers.google.com/transit/gtfs-realtime/guides/vehicle-positions) feed as input and produces arrival predictions in a [GTFS-realtime trip updates](https://developers.google.com/transit/gtfs-realtime/guides/trip-updates) feed. 
 
 TheTransitClock is an extended open source version of the project formally know as Transitime. Uniquely, TheTransitClock runs an adaptive algorithm called a Kalman Filter capable of identifying unusual operating conditions (weather, traffic collision, etc.) and adjusting predictions accordingly.
 
@@ -11,3 +11,8 @@ For further information please see the project [wiki](https://github.com/TheTran
 
 ## Mailing list
 [Mailing list](https://groups.google.com/forum/?hl=en#!forum/thetransitclock)
+
+## Deployments
+There are mulitple international deployments of TheTransitClock supported by a range of companies. These include goEuropa in Poland, CitiMovil in Chile, OmniModal in Forida and Cambridge Systematics in Washington. 
+
+If any other company wishes to be listed here place mail with details of your deployment.
