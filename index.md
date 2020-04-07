@@ -13,6 +13,6 @@ For further information please see the project [wiki](https://github.com/TheTran
 [Mailing list](https://groups.google.com/forum/?hl=en#!forum/thetransitclock)
 
 ## Deployments
-There are mulitple international deployments of TheTransitClock supported by a range of companies. These include goEuropa in Poland, CitiMovil in Chile, OmniModal in Forida and Cambridge Systematics in Washington. 
+There are mulitple international deployments of TheTransitClock supported by a range of companies. These include [goEuropa](https://www.goeuropa.eu/) in Poland, [CitiMovil](https://www.citymovil.cl/) in Chile, [OmniModal](https://omnimodal.io/) in Forida and [Cambridge Systematics](https://camsys.com/) in Washington. 
 
 If any other company wishes to be listed here place mail with details of your deployment.
